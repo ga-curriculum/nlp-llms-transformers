@@ -24,10 +24,10 @@ Transformer architecture has enabled AI tools such as ChatGPT, Google Search, an
 
 | Topic |  About |
 | ------ | ------ |
-| [Full Lesson Deck](./01-slides) | Intro to LLMs and transformers |
-| [encoder-ner](./02-encoders-NER) | Encoder example on NER task |
-| [decoders-generation](./03-decoders-generation) | Explore text generation |
-| [seq2seq-translation-summarization](./04-seq2seq-translation-summarization) | Explore translations and summarization |
+| [Full Lesson Deck](https://github.com/ga-curriculum/nlp-llms-transformers/blob/main/01-slides/NLP-LLMs%203%20Introduction%20to%20Transformers.pdf){:target="_blank"} | Intro to LLMs and transformers |
+| [encoder-ner](https://github.com/ga-curriculum/nlp-llms-transformers/tree/main/02-encoders-NER){:target="_blank"} | Encoder example on NER task |
+| [decoders-generation](https://github.com/ga-curriculum/nlp-llms-transformers/tree/main/03-decoders-generation){:target="_blank"} | Explore text generation |
+| [seq2seq-translation-summarization](https://github.com/ga-curriculum/nlp-llms-transformers/tree/main/04-seq2seq-translation-summarization){:target="_blank"} | Explore translations and summarization |
 
 
 ### Prerequisites:
